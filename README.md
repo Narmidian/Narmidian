@@ -16,5 +16,13 @@ Independent localization contributor dedicated to translating, proofreading, and
 * **Version Control:** Git & GitHub CLI (`gh`) for seamless repository integration.
 * **Core Philosophy:** Sovereign, optimized, and clean technical workflows.
 
+
+### ⚙️ Environment & Tooling
+![](https://img.shields.io/badge/OS-Debian%2013-D12F49?style=flat-square&logo=debian&logoColor=white)
+![](https://img.shields.io/badge/Version%20Control-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/CLI-GitHub%20%60gh%60-2088FF?style=flat-square&logo=github&logoColor=white)
+
+* **Core Philosophy:** Sovereign, optimized, and clean technical workflows.
+
 ---
 *“Suelo firme para construir traducción de calidad.”*
